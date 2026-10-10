@@ -1,4 +1,15 @@
-task now
+# Task to do
 
-- do app in window first
-- do casual first
+**Avaliable Platform**
+- Windows ❌
+- Android ❌
+- IOS (optional) ❌
+
+**Function**
+- Standard notification on time ❌
+- Multiple notification for a time ❌
+- Multiple **mode** notification for a time ❌
+
+**Coding knowledge**
+- Dart
+- Flutter
