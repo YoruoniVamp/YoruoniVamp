@@ -1,8 +1,8 @@
 # Roadmap
 
 > ## Phase 1: Prototype in Windows
-- Determine event name & time for noti. ❌
-- Modify event name & time for noti. ❌
+- Determine event name, time & sound for noti. ❌
+- Modify event name, time & sound for noti. ❌
 - Noti. showing. ❌
 - Save an event data. ❌
 
