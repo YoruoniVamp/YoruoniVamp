@@ -21,3 +21,9 @@
 - Cloud Sync ❌
 - Platform Noti. Adapter ❌
 - Backend (can use ready-made one) ❌
+
+**Additional Idea**
+- Preparation Mode: Additional checklist for individual events.
+- Event Readiness: Additional snooze mode.
+- Smart Reminder Profiles: Moding an individual event's category.
+- Cross-Device Reminder: Can choose a main device for notification.
