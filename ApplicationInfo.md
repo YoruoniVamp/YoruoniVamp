@@ -21,3 +21,4 @@ Last update: 10/10/2026
 - Important: Mode will build window frame with changable picture, intermediate volume level.
 - Emergency: This gonna triggered you whether you doing anything which triggered frame which can't close until you input your password, high volume level.
 
+**Process**: Still doing a roadmap for this application due to university studying and dozens of homework & project.
