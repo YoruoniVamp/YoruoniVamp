@@ -18,3 +18,5 @@
                     Local Database
                            |
                   Optional Cloud Sync
+
+AI assistant: ChatGPT 6
