@@ -11,11 +11,11 @@
 - Multiple **mode** notification for a time ❌
 
 **Coding knowledge**
-- Dart ❌
+- Dart ✅
 - Flutter ❌
 
 **Structural Process**
-- Event Manager ❌
+- Event Manager ✅
 - Reminder Engine ❌
 - Local DB ❌
 - Cloud Sync ❌
